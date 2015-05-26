@@ -1,0 +1,21 @@
+{
+  "name": "less-utils",
+  "version": "0.0.0",
+  "description": "Less Utils",
+  "keywords": [
+    "less",
+    "utils"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "João Afonso Martins",
+  "license": "MIT",
+  "homepage": "https://github.com/joaoafrmartins/less-utils",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/less-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/less-utils/issues"
+  }
+}
